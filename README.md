@@ -24,3 +24,33 @@ My Anime App is designed to provide anime enthusiasts with an engaging and user-
 
    ```bash
    git clone https://github.com/username/my-anime-app.git
+2. Open the Project
+
+    Open the project in Android Studio.
+
+3. Build and Run
+
+    Build and run the project on an Android device or emulator.
+
+4. Download and Install APK
+
+    You can also download the APK directly from the following link and install it on your Android device: [Download My Anime APK](https://github.com/username/my-anime-app/releases)
+    
+    Make sure to enable installation from unknown sources in your device settings if needed.
+
+
+## Contributions
+
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/my-anime-app/blob/main/LICENSE) file for details.
+
+## Contact
+
+For any inquiries or support, feel free to contact me:
+
+- **Email**     : dhany.af25@gmail.com
+- **Linkedin**  : [Dhany Aulia Fajrianto](https://www.linkedin.com/in/dhanyaufar/)
+
