@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">My Anime</string>
+    <string name="aboutme">About Me</string>
+    <string name="name_profile">Dhany Aulia Fajrianto</string>
+    <string name="email">dhany@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="heroes_name">Title Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="Views">Jumlah tayang</string>
+    <string name="my">MY</string>
+    <string name="anime">ANIME</string>
+
+    <string-array name="data_name">
+        <item>Black Clover</item>
+        <item>Classroom of Elite</item>
+        <item>Dr Stone</item>
+        <item>Dragon Ball</item>
+        <item>Haikyu</item>
+        <item>Hunter x Hunter</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Kageno Jitsuryokusha</item>
+        <item>Nanatsu Taizan</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Tsuki ga Michibiku Isekai Douchuu</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Asta dan Yuno adalah anak yatim piatu yang dibesarkan bersama sejak lahir setelah ditinggalkan di panti asuhan gereja di pinggiran Kerajaan Semanggi pada saat yang bersamaan. Di dunia di mana setiap orang memiliki kemampuan alami untuk melakukan semacam sihir, atau Kekuatan Sihir (Maryoku), Asta adalah satu-satunya orang yang lahir tanpa apapun, yang membuatnya berlatih fisik sebagai kompensasi. </item>
+        <item>Advanced Nurturing High School adalah institusi yang memiliki peringkat tertinggi dan paling prestisius di negara ini, hampir 100% siswanya yang mencari pendidikan tinggi dan pekerjaan berhasil. Meskipun sekolah ini tampak seperti surga, sifat sebenarnya adalah dominasi kekuasaan, di mana hanya siswa terbaik yang mendapatkan perawatan khusus</item>
+        <item>Ribuan tahun telah berlalu sejak munculnya fenomena misterius yang membuat semua manusia membatu. Senkuu, jenius sains yang sangat pintar, tiba-tiba terbangun. Dia memutuskan untuk merealisasikan semua perkembangan yang terjadi selama 2 juta tahun, dari zaman batu hingga zaman modern.</item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak laki-laki aneh yang dia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia meninggal. Anak laki-laki muda dan sangat kuat itu sendirian, tetapi mudah diatur.</item>
+        <item>Shouyou Hinata yang terpesona dengan permainan bola voli, dikalahkan oleh pemain bola voli jenius, Tobio Kageyama, pada pertandingan pertamanya waktu SMP. Akan tetapi, mereka bertemu kembali di klub bola voli SMA Karasuno. Dimulainya kisah para pemuda yang antusias bermain bola voli!</item>
+        <item>Tokoh protagonis besar di Pulau Paus sampai dia berusia 9 tahun. Dia diselamatkan oleh seorang pemuda di hutan, dan dari situ dia mengetahui bahwa ayahnya seorang pemburu dan masih hidup. Sejak itu Jie memutuskan untuk menjadi pemburu, dan dari sini dia mulai menemukan jejak ayahnya.</item>
+        <item>Di dunia di mana para iblis memakan manusia yang tak sadar dirinya menjadi mangsa, serpihan dari iblis legendaris dan paling ditakuti, Ryoumen Sukuna telah hilang tanpa jejak. Iblis mana pun yang memakan anggota tubuh Sukuna akan mendapatkan kekuatan yang mampu menghancurkan dunia.</item>
+        <item>“Orang kuat di balik layar” bukanlah protagonis, juga bukan bos terkuat yang terakhir, tetapi adalah sebuah keberadaan yang menyembunyikan kekuatan sesungguhnya di keseharian dan menggunakan kekuatan untuk mengendalikan segala sesuatu secara tersembunyi.</item>
+        <item>Elizabeth dan Hawk berhasil merebut kembali kerajaan mereka dari dua kesatria suci yang agung, Hendricksen dan Drefas. Pesta ulang Tahun kerajaan berlangsung aman, dan kerajaan Liones akhirnya menuju ke kedamaian.</item>
+        <item>Uzumaki Naruto, protagonis yang bercita-cita menjadi ninja,  berhasil membangkitkan kekuatannya berkat aksi guru Umino Iruka yang melindunginya, dan dengan perjuangan berhasil menjadi genin. Bersama dengan teman-temannya, dia ditugaskan ke kelompok pimpinan Hatake Kakashi, yang menyadarkan mereka atas kelemahan masing-masing.</item>
+        <item>One Piece menceritakan tentang petualangan seorang anak bernama Monkey D. Luffy yang bercita-cita menjadi raja bajak laut dan menemukan "One Piece" setelah terinspirasi oleh Shanks. Sekitar 22 tahun sebelum cerita dimulai, seorang bajak laut bernama Gol D. Roger, atau lebih dikenal sebagai raja bajak laut dieksekusi mati di depan publik.</item>
+        <item>Fantasi dunia berbeda dari anak laki-laki yang tidak beruntung! Makoto Misumi, yang merupakan siswa SMA biasa, dipanggil ke dunia lain tanpa pertanyaan apapun karena keadaan orang tuanya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/blackclover</item>
+        <item>@drawable/classroomelite</item>
+        <item>@drawable/drstone</item>
+        <item>@drawable/dragonball</item>
+        <item>@drawable/haikyu</item>
+        <item>@drawable/hunterxhunter</item>
+        <item>@drawable/jujutsukaisen</item>
+        <item>@drawable/kagenojitsuryokusha</item>
+        <item>@drawable/nanatsu</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/onepiece</item>
+        <item>@drawable/tsukimichi</item>
+    </integer-array>
+    <!--    <string-array name="data_views">-->
+    <!--        <item>54.1M Views</item>-->
+    <!--        <item>38.9M Views</item>-->
+    <!--        <item>33.4M Views</item>-->
+    <!--        <item>74.1M Views</item>-->
+    <!--        <item>94.8M Views</item>-->
+    <!--        <item>278.5M Views</item>-->
+    <!--        <item>176.1M Views</item>-->
+    <!--        <item>63.0M Views</item>-->
+    <!--        <item>11.7M Views</item>-->
+    <!--        <item>285.8M Views</item>-->
+    <!--        <item>2.1B Views</item>-->
+    <!--        <item>25.9M Putar</item>-->
+    <!--    </string-array>-->
+</resources>
