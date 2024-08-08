@@ -23,7 +23,7 @@ My Anime App is designed to provide anime enthusiasts with an engaging and user-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/my-anime-app.git
+   git clone https://github.com/dexalius/My-Anime.git
 2. Open the Project
 
     Open the project in Android Studio.
